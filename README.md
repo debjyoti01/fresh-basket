@@ -9,9 +9,31 @@ The system is managed by a team of designated personnel, including Area Stock Ma
 
 The primary aim of FreshBasket is to offer a seamless and convenient shopping experience for customers while providing essential administrative control to the Administrator, who oversees the entire system.
 
-## STRUCTURED CHART FOR ORDER MODULE
+## Design Document
+
+### STRUCTURED CHART FOR ORDER MODULE
 
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/40c0cf6d-9b20-4582-a346-fd70d685453e)
 
 
-## 
+### DATA-FLOW DIAGRAMS
+
+#### Level 0
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/9f941312-341d-47da-8a28-eaa0051f97d0)
+
+#### Level 1
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/f8352bf5-5fa4-42a6-8e59-8812edec4616)
+
+#### Level 2
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/bf694e1e-c343-4b6d-91d2-56274c40e6a4)
+
+#### Level 3
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/2720ff78-884e-4edb-8b6e-48aff6eaf18f)
+
+### Entity-Relationship Diagram
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/13b562a1-f948-4257-a68f-2bda8aaab894)
+
+
+
+
+
