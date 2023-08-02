@@ -12,8 +12,10 @@ The primary aim of FreshBasket is to offer a seamless and convenient shopping ex
 ## Design Document
 
 ### STRUCTURED CHART FOR ORDER MODULE
+---
 
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/40c0cf6d-9b20-4582-a346-fd70d685453e)
+
 
 
 ### DATA-FLOW DIAGRAMS
