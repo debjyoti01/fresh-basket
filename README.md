@@ -19,21 +19,27 @@ The primary aim of FreshBasket is to offer a seamless and convenient shopping ex
 
 ### DATA-FLOW DIAGRAMS :
 
-
+#### Level 0
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/1d98da40-58a0-4e96-a602-716edeecd91f)
-<center>**Level 0**</center><br>
+
 
 #### Level 1
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/1981816c-1d14-494a-93a8-ed399cbe047b)
 
+
 #### Level 2
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/bf694e1e-c343-4b6d-91d2-56274c40e6a4)
+
 
 #### Level 3
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/2720ff78-884e-4edb-8b6e-48aff6eaf18f)
 
-### Entity-Relationship Diagram
+
+### Entity-Relationship Diagram :
+
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/13b562a1-f948-4257-a68f-2bda8aaab894)
+
+
 
 
 
