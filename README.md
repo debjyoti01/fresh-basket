@@ -9,7 +9,7 @@ The system is managed by a team of designated personnel, including Area Stock Ma
 
 The primary aim of FreshBasket is to offer a seamless and convenient shopping experience for customers while providing essential administrative control to the Administrator, who oversees the entire system.
 
-## Design Document
+## Some Important Diagram from Design Document
 
 ### STRUCTURED CHART FOR ORDER MODULE :
 
@@ -38,6 +38,13 @@ The primary aim of FreshBasket is to offer a seamless and convenient shopping ex
 ### Entity-Relationship Diagram :
 
 ![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/13b562a1-f948-4257-a68f-2bda8aaab894)
+
+
+## Some Important Diagram from Software Requirement Specification
+
+### USE CASE DIAGRAM
+
+![image](https://github.com/debjyoti01/fresh-basket/assets/120040021/cb7ff0dd-2098-460a-be9e-fa89e573e0e2)
 
 
 
